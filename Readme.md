@@ -22,3 +22,5 @@ mithilfe von
 node benchmark.js
 ``` 
 den Vergleich zwischen Nativer Javascript und cpp Implementierung starten.
+
+Nicht nervös werden, dauert ca. 5-10 Sekunden.
